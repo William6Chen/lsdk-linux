@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
-VERSION = 5
-PATCHLEVEL = 4
-SUBLEVEL = 47
-EXTRAVERSION =
-NAME = Kleptomaniac Octopus
+VERSION = 1
+PATCHLEVEL = 1
+SUBLEVEL = 1
+EXTRAVERSION = 1
+NAME = William Kleptomaniac Octopus
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
